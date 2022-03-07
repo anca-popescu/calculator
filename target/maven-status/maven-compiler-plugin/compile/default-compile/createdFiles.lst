@@ -1,0 +1,9 @@
+calculator\Division.class
+calculator\Multiplication.class
+calculator\constants\Operations.class
+calculator\MyException.class
+calculator\Addition.class
+calculator\Substraction.class
+calculator\Operation.class
+calculator\Main.class
+calculator\Calculator.class
